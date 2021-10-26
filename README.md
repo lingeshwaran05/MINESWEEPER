@@ -1,3 +1,3 @@
 # MINESWEEPER!
 
-(https://user-images.githubusercontent.com/76167753/138890701-9cda72a2-6a1d-477f-b89d-18b4986bbee9.png)
+![minesweeper](https://user-images.githubusercontent.com/76167753/138890947-58fed0a5-4ed3-428c-a855-a8c70799d227.png)
